@@ -1,0 +1,13 @@
+prefix=/Users/sharath/Downloads/projects/chat_with_pdf/venv
+exec_prefix=/Users/sharath/Downloads/projects/chat_with_pdf/venv
+libdir=/Users/sharath/Downloads/projects/chat_with_pdf/venv/lib
+sharedlibdir=/Users/sharath/Downloads/projects/chat_with_pdf/venv/lib
+includedir=/Users/sharath/Downloads/projects/chat_with_pdf/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

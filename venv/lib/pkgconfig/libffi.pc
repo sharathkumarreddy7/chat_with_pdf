@@ -1,0 +1,11 @@
+prefix=/Users/sharath/Downloads/projects/chat_with_pdf/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/sharath/Downloads/projects/chat_with_pdf/venv/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
