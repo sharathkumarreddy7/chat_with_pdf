@@ -1,2 +1,1 @@
-# chat_with_pdf
-Interaction with contents in a pdf through Large Language Model - Gemini Pro from google
+Developed a dynamic web application using Streamlit to facilitate the seamless upload and analysis of multiple PDF documents. Implemented a user-friendly interface that enables real-time interaction with a sophisticated language model, Gemini Pro from Google. This system allows users to inquire about diverse topics within the PDF contents, demonstrating effective coordination between the web application and the language model for prompt and accurate responses.
