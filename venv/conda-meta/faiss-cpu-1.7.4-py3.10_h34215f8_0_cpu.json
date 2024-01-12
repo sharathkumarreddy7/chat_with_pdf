@@ -1,0 +1,412 @@
+{
+  "build": "py3.10_h34215f8_0_cpu",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/pytorch/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=14.0.6",
+    "libfaiss 1.7.4 hcb8d3e5_0_cpu",
+    "numpy >=1.16,<2",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "extracted_package_dir": "/Users/sharath/anaconda3/pkgs/faiss-cpu-1.7.4-py3.10_h34215f8_0_cpu",
+  "files": [
+    "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/PKG-INFO",
+    "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/SOURCES.txt",
+    "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/dependency_links.txt",
+    "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/not-zip-safe",
+    "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/requires.txt",
+    "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/top_level.txt",
+    "lib/python3.10/site-packages/faiss/__init__.py",
+    "lib/python3.10/site-packages/faiss/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/__pycache__/array_conversions.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/__pycache__/class_wrappers.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/__pycache__/extra_wrappers.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/__pycache__/gpu_wrappers.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/__pycache__/loader.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/__pycache__/swigfaiss.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/_swigfaiss.so",
+    "lib/python3.10/site-packages/faiss/array_conversions.py",
+    "lib/python3.10/site-packages/faiss/class_wrappers.py",
+    "lib/python3.10/site-packages/faiss/contrib/__init__.py",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/client_server.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/clustering.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/datasets.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/evaluation.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/exhaustive_search.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/factory_tools.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/inspect_tools.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/ivf_tools.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/ondisk.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/rpc.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/torch_utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/__pycache__/vecs_io.cpython-310.pyc",
+    "lib/python3.10/site-packages/faiss/contrib/client_server.py",
+    "lib/python3.10/site-packages/faiss/contrib/clustering.py",
+    "lib/python3.10/site-packages/faiss/contrib/datasets.py",
+    "lib/python3.10/site-packages/faiss/contrib/evaluation.py",
+    "lib/python3.10/site-packages/faiss/contrib/exhaustive_search.py",
+    "lib/python3.10/site-packages/faiss/contrib/factory_tools.py",
+    "lib/python3.10/site-packages/faiss/contrib/inspect_tools.py",
+    "lib/python3.10/site-packages/faiss/contrib/ivf_tools.py",
+    "lib/python3.10/site-packages/faiss/contrib/ondisk.py",
+    "lib/python3.10/site-packages/faiss/contrib/rpc.py",
+    "lib/python3.10/site-packages/faiss/contrib/torch_utils.py",
+    "lib/python3.10/site-packages/faiss/contrib/vecs_io.py",
+    "lib/python3.10/site-packages/faiss/extra_wrappers.py",
+    "lib/python3.10/site-packages/faiss/gpu_wrappers.py",
+    "lib/python3.10/site-packages/faiss/loader.py",
+    "lib/python3.10/site-packages/faiss/swigfaiss.py"
+  ],
+  "fn": "faiss-cpu-1.7.4-py3.10_h34215f8_0_cpu.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/sharath/anaconda3/pkgs/faiss-cpu-1.7.4-py3.10_h34215f8_0_cpu",
+    "type": 1
+  },
+  "md5": "479ceba29f5eb27f2bd83fd243abbebe",
+  "name": "faiss-cpu",
+  "package_tarball_full_path": "/Users/sharath/anaconda3/pkgs/faiss-cpu-1.7.4-py3.10_h34215f8_0_cpu.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "277ebfe0fcd4bd3577050394639701fae7d02a8887ca681756f39f921f11a555",
+        "sha256_in_prefix": "277ebfe0fcd4bd3577050394639701fae7d02a8887ca681756f39f921f11a555",
+        "size_in_bytes": 766
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "0b4852ceab87813cee0a3249281f195bd49a4dde0aeb86a6af9bcd3e72d4f7f0",
+        "sha256_in_prefix": "0b4852ceab87813cee0a3249281f195bd49a4dde0aeb86a6af9bcd3e72d4f7f0",
+        "size_in_bytes": 712
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "e09f656c130b9c08b2c5ab7187c891295e449ed77febea2a6ceee9cc98ccb0fc",
+        "sha256_in_prefix": "e09f656c130b9c08b2c5ab7187c891295e449ed77febea2a6ceee9cc98ccb0fc",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss-1.7.4-py3.10.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "9ebd92fb560086a02e025149ba49ed0ef4465df2352a6c2750db3f88594d8a28",
+        "sha256_in_prefix": "9ebd92fb560086a02e025149ba49ed0ef4465df2352a6c2750db3f88594d8a28",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "01de30db2e5a8afe15f28b35dba280d345b18fa958e1f9103e2da755cdeb5522",
+        "sha256_in_prefix": "01de30db2e5a8afe15f28b35dba280d345b18fa958e1f9103e2da755cdeb5522",
+        "size_in_bytes": 11066
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd8ee19a636fba27a4c7fc065dc8da170aba4b84d720defb706b58983c56ee23",
+        "sha256_in_prefix": "fd8ee19a636fba27a4c7fc065dc8da170aba4b84d720defb706b58983c56ee23",
+        "size_in_bytes": 7835
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/array_conversions.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "868a023806d4ed69715098519eafa691471afad03c2baccd078d76aaf7e0d9bd",
+        "sha256_in_prefix": "868a023806d4ed69715098519eafa691471afad03c2baccd078d76aaf7e0d9bd",
+        "size_in_bytes": 4192
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/class_wrappers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a22bf9a4e3b871e51c01d215ee2ca3a90d409559a417a0651d24373d084aee5",
+        "sha256_in_prefix": "2a22bf9a4e3b871e51c01d215ee2ca3a90d409559a417a0651d24373d084aee5",
+        "size_in_bytes": 31621
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/extra_wrappers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b7dcf9ac7a072deb85f823cb8e17c66f0402c774f918e427b0676976b2658391",
+        "sha256_in_prefix": "b7dcf9ac7a072deb85f823cb8e17c66f0402c774f918e427b0676976b2658391",
+        "size_in_bytes": 13716
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/gpu_wrappers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "235141361c974c03c21020f171b862a12b37ecc452fd3c992316ff5753f87d32",
+        "sha256_in_prefix": "235141361c974c03c21020f171b862a12b37ecc452fd3c992316ff5753f87d32",
+        "size_in_bytes": 6358
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/loader.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff3945168538407874a9fac7b193b1576dde0a836d82f33468dcbc52f09d6601",
+        "sha256_in_prefix": "ff3945168538407874a9fac7b193b1576dde0a836d82f33468dcbc52f09d6601",
+        "size_in_bytes": 2049
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/__pycache__/swigfaiss.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b4b7adf8274864f9af1b9ff4f66eceb40517344a39951ae8586dd161d556ef16",
+        "sha256_in_prefix": "b4b7adf8274864f9af1b9ff4f66eceb40517344a39951ae8586dd161d556ef16",
+        "size_in_bytes": 523546
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/_swigfaiss.so",
+        "path_type": "hardlink",
+        "sha256": "77fe6ae5fb55d288e442a4ed4b81f6dc171fb14f7aabddd764cfdda7f6c69853",
+        "sha256_in_prefix": "77fe6ae5fb55d288e442a4ed4b81f6dc171fb14f7aabddd764cfdda7f6c69853",
+        "size_in_bytes": 4667984
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/array_conversions.py",
+        "path_type": "hardlink",
+        "sha256": "0f89c2577f6dd37351e3acff0eeb43527ccedc9662effe30d03e45e872951610",
+        "sha256_in_prefix": "0f89c2577f6dd37351e3acff0eeb43527ccedc9662effe30d03e45e872951610",
+        "size_in_bytes": 5103
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/class_wrappers.py",
+        "path_type": "hardlink",
+        "sha256": "8065aaf3b661bffaffe2cbfb9d5f05d8c2a07e973e4cf67fbed17b61adace168",
+        "sha256_in_prefix": "8065aaf3b661bffaffe2cbfb9d5f05d8c2a07e973e4cf67fbed17b61adace168",
+        "size_in_bytes": 34098
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fca7645642075c5bafa50c3d09b1cff5346284a8359c268fc139bbcb3b9545e1",
+        "sha256_in_prefix": "fca7645642075c5bafa50c3d09b1cff5346284a8359c268fc139bbcb3b9545e1",
+        "size_in_bytes": 147
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/client_server.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a74f21d3361dd8c99a46108754c6ae486356a553883b04869661d5c7539b6ef",
+        "sha256_in_prefix": "4a74f21d3361dd8c99a46108754c6ae486356a553883b04869661d5c7539b6ef",
+        "size_in_bytes": 3742
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/clustering.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc39586203ebca373a22a3b0b26c8a1c23316d5327609bc8c2318c4a30b02f65",
+        "sha256_in_prefix": "fc39586203ebca373a22a3b0b26c8a1c23316d5327609bc8c2318c4a30b02f65",
+        "size_in_bytes": 10604
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/datasets.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fde66fb1a18b09d17617aca1ae154f4d65b622db3628a737b048945f5e64b849",
+        "sha256_in_prefix": "fde66fb1a18b09d17617aca1ae154f4d65b622db3628a737b048945f5e64b849",
+        "size_in_bytes": 12120
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/evaluation.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1ffc5912f5ae8cfd808ef513702a97e6e166a2e78de1023f8f5be9337c1a48f",
+        "sha256_in_prefix": "f1ffc5912f5ae8cfd808ef513702a97e6e166a2e78de1023f8f5be9337c1a48f",
+        "size_in_bytes": 13879
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/exhaustive_search.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ffe5eeca0fab3bd94feb52645232fd44272147532345eb899fac0f11eb91f11f",
+        "sha256_in_prefix": "ffe5eeca0fab3bd94feb52645232fd44272147532345eb899fac0f11eb91f11f",
+        "size_in_bytes": 8548
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/factory_tools.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d487870b46fdbfe60e86d362fc981b6507bd3dc8b2c5b1857ce8a556b33bd36",
+        "sha256_in_prefix": "6d487870b46fdbfe60e86d362fc981b6507bd3dc8b2c5b1857ce8a556b33bd36",
+        "size_in_bytes": 2137
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/inspect_tools.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f3ebe824e39f07362ad438a14dd219c85d5461b7139ecd8fcaff454b6c4d95c",
+        "sha256_in_prefix": "8f3ebe824e39f07362ad438a14dd219c85d5461b7139ecd8fcaff454b6c4d95c",
+        "size_in_bytes": 3006
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/ivf_tools.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac572e7e3465d13b1e9923008d14a37ab1a3e71370a58b5c2732e0e2b2de5772",
+        "sha256_in_prefix": "ac572e7e3465d13b1e9923008d14a37ab1a3e71370a58b5c2732e0e2b2de5772",
+        "size_in_bytes": 14482
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/ondisk.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "658f3b5f7898dfd4af41e39ac88cdb572adc91bfff079ca470720b0979e02871",
+        "sha256_in_prefix": "658f3b5f7898dfd4af41e39ac88cdb572adc91bfff079ca470720b0979e02871",
+        "size_in_bytes": 1330
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/rpc.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d93cd34d07870733bb85f68f986a0e0e2d8412d6ff49682736bd2108ae10a87",
+        "sha256_in_prefix": "7d93cd34d07870733bb85f68f986a0e0e2d8412d6ff49682736bd2108ae10a87",
+        "size_in_bytes": 7403
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/torch_utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "064543bdbf74c92be5d73391ba488ac1570ffab41e14036a871f3ac87fef80d7",
+        "sha256_in_prefix": "064543bdbf74c92be5d73391ba488ac1570ffab41e14036a871f3ac87fef80d7",
+        "size_in_bytes": 14730
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/__pycache__/vecs_io.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e27c5ebd9bd9312a84c9934a418c9577e875529b9cfb362cbb1178c8e62c68b2",
+        "sha256_in_prefix": "e27c5ebd9bd9312a84c9934a418c9577e875529b9cfb362cbb1178c8e62c68b2",
+        "size_in_bytes": 1514
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/client_server.py",
+        "path_type": "hardlink",
+        "sha256": "75fe09fbaaa39e204a1b09349ed25a34a2ea3252eb69a5fbcb51e9256184432d",
+        "sha256_in_prefix": "75fe09fbaaa39e204a1b09349ed25a34a2ea3252eb69a5fbcb51e9256184432d",
+        "size_in_bytes": 2772
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/clustering.py",
+        "path_type": "hardlink",
+        "sha256": "637ecb6dbd26025df2d02f80137f1a8d2cf51b38e34953f478617096a88f9643",
+        "sha256_in_prefix": "637ecb6dbd26025df2d02f80137f1a8d2cf51b38e34953f478617096a88f9643",
+        "size_in_bytes": 11882
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/datasets.py",
+        "path_type": "hardlink",
+        "sha256": "b89a706a4cb305923987faf16544ec476069203ae8f367cddea5c0cc671aa2a9",
+        "sha256_in_prefix": "b89a706a4cb305923987faf16544ec476069203ae8f367cddea5c0cc671aa2a9",
+        "size_in_bytes": 11157
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/evaluation.py",
+        "path_type": "hardlink",
+        "sha256": "bd437cf4cf611bca226d48a4581fa19579390a4255dd6f9a7c8153f922effc63",
+        "sha256_in_prefix": "bd437cf4cf611bca226d48a4581fa19579390a4255dd6f9a7c8153f922effc63",
+        "size_in_bytes": 13772
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/exhaustive_search.py",
+        "path_type": "hardlink",
+        "sha256": "319cfeeb1b981dba1245eb88f16f8b84fbf100938a73323fa8e2fac20a3ab0e7",
+        "sha256_in_prefix": "319cfeeb1b981dba1245eb88f16f8b84fbf100938a73323fa8e2fac20a3ab0e7",
+        "size_in_bytes": 10135
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/factory_tools.py",
+        "path_type": "hardlink",
+        "sha256": "256e89e61e72c35bcccde016ee8e52c0860c631bb76d13e557cc4ee53b3458f4",
+        "sha256_in_prefix": "256e89e61e72c35bcccde016ee8e52c0860c631bb76d13e557cc4ee53b3458f4",
+        "size_in_bytes": 3101
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/inspect_tools.py",
+        "path_type": "hardlink",
+        "sha256": "9214bd59a6b5d8a47eec5ad3b4f11b46a8c81e54bdfc83e4ae8db9c528b2a419",
+        "sha256_in_prefix": "9214bd59a6b5d8a47eec5ad3b4f11b46a8c81e54bdfc83e4ae8db9c528b2a419",
+        "size_in_bytes": 2734
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/ivf_tools.py",
+        "path_type": "hardlink",
+        "sha256": "7cfdce59e63ccc80dee22f3ea799416c27ca6d1272130ebbfb8edac68167a8de",
+        "sha256_in_prefix": "7cfdce59e63ccc80dee22f3ea799416c27ca6d1272130ebbfb8edac68167a8de",
+        "size_in_bytes": 18786
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/ondisk.py",
+        "path_type": "hardlink",
+        "sha256": "67ac13bcc9f467aa087820d4d458216632f3597497942964f3f132c8240eb31d",
+        "sha256_in_prefix": "67ac13bcc9f467aa087820d4d458216632f3597497942964f3f132c8240eb31d",
+        "size_in_bytes": 2030
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/rpc.py",
+        "path_type": "hardlink",
+        "sha256": "a1b5f1f06b62aa1864bd55db4e510e86c58ac127af7c0c43754f0472b57c8935",
+        "sha256_in_prefix": "a1b5f1f06b62aa1864bd55db4e510e86c58ac127af7c0c43754f0472b57c8935",
+        "size_in_bytes": 7030
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/torch_utils.py",
+        "path_type": "hardlink",
+        "sha256": "d642556c61a86bec36f1ac79779740e49ef075f494f5b2ed42422423efd01f80",
+        "sha256_in_prefix": "d642556c61a86bec36f1ac79779740e49ef075f494f5b2ed42422423efd01f80",
+        "size_in_bytes": 23189
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/contrib/vecs_io.py",
+        "path_type": "hardlink",
+        "sha256": "d48d21d219994f4abe18c557a7bd2c0dff4d00bc6443e059331c1653b4d74646",
+        "sha256_in_prefix": "d48d21d219994f4abe18c557a7bd2c0dff4d00bc6443e059331c1653b4d74646",
+        "size_in_bytes": 1098
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/extra_wrappers.py",
+        "path_type": "hardlink",
+        "sha256": "7d250bdb4422a227fdc85f56c742ff975121e98e9bba47fd2ff096282f932719",
+        "sha256_in_prefix": "7d250bdb4422a227fdc85f56c742ff975121e98e9bba47fd2ff096282f932719",
+        "size_in_bytes": 15129
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/gpu_wrappers.py",
+        "path_type": "hardlink",
+        "sha256": "ad35b46e535e3db5cf0e2d0bf0774612d97eaec4b509594e988a1bc590fe2b86",
+        "sha256_in_prefix": "ad35b46e535e3db5cf0e2d0bf0774612d97eaec4b509594e988a1bc590fe2b86",
+        "size_in_bytes": 8425
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/loader.py",
+        "path_type": "hardlink",
+        "sha256": "528ea3920b538f2f9a65428510fe65e98e3240d752a54b8d8a9fbe30afb47041",
+        "sha256_in_prefix": "528ea3920b538f2f9a65428510fe65e98e3240d752a54b8d8a9fbe30afb47041",
+        "size_in_bytes": 2382
+      },
+      {
+        "_path": "lib/python3.10/site-packages/faiss/swigfaiss.py",
+        "path_type": "hardlink",
+        "sha256": "f15d582ec64478901b2ead476b9a01459e1da6f4ddd58f03601847de24b8a31d",
+        "sha256_in_prefix": "f15d582ec64478901b2ead476b9a01459e1da6f4ddd58f03601847de24b8a31d",
+        "size_in_bytes": 474434
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "faiss-cpu",
+  "sha256": "78a8605ebcc31e00be64acabfd7fec60480d8af777eeea646693e3f9cc853309",
+  "size": 1270867,
+  "subdir": "osx-arm64",
+  "timestamp": 1681998335000,
+  "url": "https://conda.anaconda.org/pytorch/osx-arm64/faiss-cpu-1.7.4-py3.10_h34215f8_0_cpu.tar.bz2",
+  "version": "1.7.4"
+}

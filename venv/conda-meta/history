@@ -17,3 +17,17 @@
 +defaults/osx-arm64::xz-5.4.5-h80987f9_0
 +defaults/osx-arm64::zlib-1.2.13-h5a0b063_0
 # update specs: ['python=3.10']
+==> 2024-01-12 11:31:26 <==
+# cmd: /Users/sharath/anaconda3/bin/conda install -c pytorch faiss-cpu
+# conda version: 23.11.0
++defaults/osx-arm64::blas-1.0-openblas
++defaults/osx-arm64::libcxx-14.0.6-h848a8c0_0
++defaults/osx-arm64::libgfortran-5.0.0-11_3_0_hca03da5_28
++defaults/osx-arm64::libgfortran5-11.3.0-h009349e_28
++defaults/osx-arm64::libopenblas-0.3.21-h269037a_0
++defaults/osx-arm64::llvm-openmp-14.0.6-hc6e5704_0
++defaults/osx-arm64::numpy-1.26.3-py310h3b2db8e_0
++defaults/osx-arm64::numpy-base-1.26.3-py310ha9811e2_0
++pytorch/osx-arm64::faiss-cpu-1.7.4-py3.10_h34215f8_0_cpu
++pytorch/osx-arm64::libfaiss-1.7.4-hcb8d3e5_0_cpu
+# update specs: ['faiss-cpu']
